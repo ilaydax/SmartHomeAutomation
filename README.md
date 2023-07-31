@@ -4,7 +4,7 @@ The purpose of this project is to simulate a smart home running on Arduino.
 </br>
 The project was carried out on the Proteus program. (new project file)
 </br>
-With in the system;
+Within the system;
 • Fire alarm,
 • Motion detecting light system,
 • Digital thermometer,
